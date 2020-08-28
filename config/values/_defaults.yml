@@ -1,5 +1,0 @@
-#@data/values
----
-general:
-  container_name: something
-image: golang
